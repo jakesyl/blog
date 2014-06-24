@@ -4,8 +4,14 @@ title: About
 ---
 ## Setup
 
-Some fun facts about the setup of this project include:
-
+Advanced Proficient:
+*PHP
+*HTML, CSS
+*Java
+*Javascript
+*PHP
+*Lisp
+*Visual Basic
 * Built for [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
@@ -20,15 +26,7 @@ Some things about me
 </p>
 
 # Skills
-	Advanced Proficient:
-		*PHP
-		*HTML, CSS
-		*Java
-		*Javascript
-		*PHP
-		*Lisp
-		*Visual Basic
-	
+
 	
 	
 	Proficient:
