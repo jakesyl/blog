@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            Jake's Blog
+tagline:          'A series of ramblings about code among other things'
+description:      'Because I probably don't have anything better to do'
+url:              http://http://jakesyl.github.io/
 baseurl:          '/'
 paginate:         5
 
 author:
-  name:           'Mark Otto'
+  name:           'Jake '
   url:            https://twitter.com/mdo
 
 # Custom vars
