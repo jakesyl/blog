@@ -6,7 +6,7 @@ title: About
 Some things about me
 </p>
 
-## Skills
+# Skills
 	Advanced Proficient:
 		*PHP
 		*HTML, CSS
