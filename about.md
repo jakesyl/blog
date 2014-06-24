@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-<h3>Most Proficient:</h3>
-							<ul>
+ 							<ul>
 								<li>PHP</li>
 								<li>HTML, CSS</li>
 								<li>Java</li>
