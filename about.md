@@ -2,6 +2,10 @@
 layout: page
 title: About
 ---
+<p class="message">
+Some things about me
+</p>
+
 ## Skills
 	Advanced Proficient:
 		*PHP
