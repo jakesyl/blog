@@ -9,16 +9,16 @@ permalink:        pretty
 title:            Jake's Blog
 tagline:          'A series of ramblings about code among other things'
 description:      'Because I probably don't have anything better to do'
-url:              http://http://jakesyl.github.io/
+url:              http://jakesyl.github.io/
 baseurl:          '/'
 paginate:         5
 
 author:
   name:           'Jake '
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/jakesyl/
