@@ -2,28 +2,25 @@
 layout: page
 title: About
 ---
-## Setup
 
-Advanced Proficient:
-	* Code	
-		* PHP
-		* HTML, CSS
-		* Java
-		* Javascript
-		* PHP
-		* Lisp
-		* Visual Basic
-	* Other Tech:	
-		* VMWare
-		* Git
-		* MySQL
-		* Bash
-		* Wordpress
-		* Joomla
-* Proficient
-	* Programming
-		* Objective-C 
-		* C
-		* Perl 5/6
-		* Brain F*({
+#Advanced Proficient:
+* PHP
+* HTML, CSS
+* Java
+* Javascript
+* PHP
+* Lisp
+* Visual Basic
+* VMWare
+* Git (Terminal and Gui)
+* MySQL
+* Bash
+* Wordpress
+* Joomla
+
+#Proficient
+* Objective-C 
+* C
+* Perl 5/6
+* Brain F*({
 <img border="0" src="/Photos/gump.jpg" alt="Forus Gump">
