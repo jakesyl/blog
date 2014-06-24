@@ -2,20 +2,19 @@
 layout: page
 title: About
 ---
-
- 							<ul>
-								<li>PHP</li>
-								<li>HTML, CSS</li>
-								<li>Java</li>
-								<li>Javascript</li>
-								<li>PHP</li>
-								<li>Lisp</li>
-								<li> Visual Basic</li>
-							</ul>
-						</div>
-						<div class="col-md-1">&nbsp;</div>
-						<div class="col-md-3">
-							<h3>Familiar:</h3>
+## Skills
+	Advanced Proficient:
+		*PHP
+		*HTML, CSS
+		*Java
+		*Javascript
+		*PHP
+		*Lisp
+		*Visual Basic
+	
+	
+	
+	Proficient:
 							<ul>
 								<li>Bash</li>
 								<li>Objective-C (iOS SDK)</li>
