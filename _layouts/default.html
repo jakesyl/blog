@@ -6,7 +6,8 @@
   <body>
 
     {% include sidebar.html %}
-    {% include comments.html %}
+    {% include google_analytics.html %} <!--not available yet but shouldn't make to big of a difference....
+
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -22,6 +23,9 @@
 
       <div class="container content">
         {{ content }}
+        
+            {% include comments.html %}
+
       </div>
     </div>
 
