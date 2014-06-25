@@ -24,13 +24,15 @@
       <div class="container content">
         {{ content }}
         
-        {% include comments.html %}
+        <!--{% include comments.html %} just for now-->
 
       </div>
     </div>
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
       <div class="footer">
         <p>
+                {% include comments.html %}
+
           &copy; {{ site.time | date: '%Y' }}. All rights reserved.
         </p>
       </div>
