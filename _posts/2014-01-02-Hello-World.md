@@ -4,7 +4,7 @@ title: Hello World!
 ---
 
 
-Hello, my name is Jake!  I'm a young developer and high school student who's now hosting his blog on [Jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com).  Although many, of my friends no about my out of school activities on github: I'm going to keep my last name out of the blog for a while.  So hello there!
+Hello, my name is Jake!  I'm a young developer and high school student who's now hosting his blog on [Jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com).  Although many, of my friends know about my out of school activities on github: I'm going to keep my last name out of the blog for a while.  So hello there!
 
 ### Why I chose Poole
 
