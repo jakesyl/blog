@@ -9,11 +9,11 @@ After spending several hours and making it through 7 "days" of [One Month Rails]
 
 ##Day 7
 
-	Day 7 was extremely easy, all I did was create 2 pages (home and about) and link them to each other.  The pages were home and about, and this was done using the command line (which I found rather interesting) using `rails generate controller pages home about`.  This simple command created two pages, Home and about, of course I still had to route and define both the pages.  This was easy except for the fact that finding the files to edit took about 20 minutes.  In the next video we just used embedded ruby to make a link... Extremely simple.  Additionally in these videos he taught some, but very little html such as `<h1>`. 
+Day 7 was extremely easy, all I did was create 2 pages (home and about) and link them to each other.  The pages were home and about, and this was done using the command line (which I found rather interesting) using `rails generate controller pages home about`.  This simple command created two pages, Home and about, of course I still had to route and define both the pages.  This was easy except for the fact that finding the files to edit took about 20 minutes.  In the next video we just used embedded ruby to make a link... Extremely simple.  Additionally in these videos he taught some, but very little html such as `<h1>`. 
 
 ##Day 8 and 9 
 
-	Day 8 was a simple, 9 minute manner of placing erb (embedded ruby links) in the header of the layouts folder.  Day 9 was a matter of installing bootstrap (sass not less), importing and restarting a server. 
+Day 8 was a simple, 9 minute manner of placing erb (embedded ruby links) in the header of the layouts folder.  Day 9 was a matter of installing bootstrap (sass not less), importing and restarting a server. 
 <img border="0" src="/Photos/day7-9.png" alt="Days 7 through 9">
 
 ##Day 10 and 11
