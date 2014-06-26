@@ -1,3 +1,9 @@
+---
+layout: post
+title: My first day of rails
+comments: True
+---
+
 Hey Guys,
 
 Being an experienced developer, and taking a pretty base level course, I wanted to give some feedback as to how I did in day 1 through day 6 of [One Month Rails](https://onemonth.com/courses/one-month-rails) (Even though I've only actually been doing Rails for about an hour).  
