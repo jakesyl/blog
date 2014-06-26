@@ -18,10 +18,11 @@ Day 8 was a simple, 9 minute manner of placing erb (embedded ruby links) in the 
 
 ##Day 10 and 11
 
-	Due to the fact that most, if not all people reading this are web designers I'll skip the details of day 8, basically using SASS bootstrap we added a default navbar and changed some text, very simple put together in an elegant 17 minute video.  A little long, but one month did an excellent job of explaining css pre-proccesors to new web developers.  Day 11 was simply setting some Sass variables in a bootstrap file.
+Due to the fact that most, if not all people reading this are web designers I'll skip the details of day 8, basically using SASS bootstrap we added a default navbar and changed some text, very simple put together in an elegant 17 minute video.  A little long, but one month did an excellent job of explaining css pre-proccesors to new web developers.  Day 11 was simply setting some Sass variables in a bootstrap file.
 
 <img border="0" src="/Photos/day10-11.png" alt="Days 10 and 11">
 
 Thanks for reading,
+
 Jake
 
