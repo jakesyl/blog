@@ -27,7 +27,9 @@ The Final module of "Day 13", I skipped as it was about registering a custom dom
 
 ##Day 14
 
-Day 14 brought me backt to my days of wordpress and plugins.  Instead of writing database interaction to sign up users and such, we used a gem called devise
+Day 14 brought me backt to my days of wordpress and plugins.  Instead of writing database interaction to sign up users among other things, we used a gem called devise.  Devise adds full functionality of user signups, encryption and other features that I haven't head the pleasure to explore yet.  Here's a picture of the courses from day 12 to day 14:
+
+<img border="0" src="/Photos/day12-14.png" alt="Days 12-14 of One Month Rails">
 
 Thanks for reading,
 
