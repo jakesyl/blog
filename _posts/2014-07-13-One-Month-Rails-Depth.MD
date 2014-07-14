@@ -31,7 +31,7 @@ Day 14 brought me back to my days of wordpress and plugins.  Instead of writing 
 
 <img border="0" src="/Photos/day12-14.png" alt="Days 12-14 of One Month Rails">
 
-It seems like from here until day 18 is basically modifications and further setup for devise, upon looking through the source code I have realized that this is quite a complicated gem, and if I could read ruby, I would be quite interested.
+It appears that from here until day 18 is basically modifications and further setup for devise, upon looking through the source code I have realized that this is quite a complicated gem, and if I could read ruby, I would be quite interested.
 
 Thanks for reading,
 
