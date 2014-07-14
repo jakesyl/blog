@@ -6,6 +6,7 @@ comments: True
 Hey Guys,
 
 After a one week cruise internet free, I am continuing [One Month Rails](https://onemonth.com/courses/one-month-rails) training course and have some more feedback.  It's getting a  bit boring in terms of content.  Also Mattan doesn't explain much of ruby, just rails and most of this course is blindly typing.  Anyway, before anything else I would like to show the structure of the one month rails gets
+
 ##Structure
 <img border="0" src="/Photos/oms.png" alt="A look inside a video">
 
