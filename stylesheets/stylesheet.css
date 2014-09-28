@@ -1,0 +1,306 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background: url(../images/pattern1.jpg);
+	margin: 0;
+}
+
+#loading {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+
+#main {
+	display: none;
+}
+
+header {
+	width: 100%;
+}
+
+.ics-border-bottom {
+	border-bottom: 1px solid #33B5E5;
+	-webkit-box-shadow: inset 0 0 1px 0 #fff, 0 0 1px 1px rgba(0,0,0,.1);
+	   -moz-box-shadow: inset 0 0 1px 0 #fff, 0 0 1px 1px rgba(0,0,0,.1);
+			box-shadow: inset 0 0 1px 0 #fff, 0 0 1px 1px rgba(0,0,0,.1);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false); /* IE6-9 */
+}
+
+.ics-border-top {
+	border-top: 1px solid #33B5E5;
+	/*-webkit-box-shadow: inset 0 -1px 0 1px #fff, 0 -1px 0 1px rgba(0,0,0,.1);
+	   -moz-box-shadow: inset 0 -1px 0 1px #fff, 0 -1px 0 1px rgba(0,0,0,.1);
+			box-shadow: inset 0 -1px 0 1px #fff, 0 -1px 0 1px rgba(0,0,0,.1);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false); /* IE6-9 */
+}
+
+header h1 {
+	color: #33B5E5;
+}
+
+header h1:before {
+  content: "./ ";
+  font-size: 24px;
+}
+
+.ics-font-blue {
+	color: #33B5E5;
+}
+
+.ics-font-grey {
+	color: #555555;
+}
+
+.ics-font-black {
+	color: #222222;
+}
+
+.footer {
+	padding: 20px 0 20px 20px;
+	margin-bottom: 0;
+	background-color: whiteSmoke;
+}
+
+.footer p {
+	margin-bottom: 0px;
+}
+
+.footer i{
+	line-height: 20px;
+}
+
+::-webkit-selection,
+::-moz-selection,
+::selection {
+  background-color: #0099cc;
+  color: #fff; }
+  
+.block {
+	display: table;
+	width: 100%;
+}
+
+.centered {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.opensource {
+	font-size: 60px;
+}
+
+.opensource:before {
+	content: "{{ ";
+	color: #33B5E5;
+}
+
+.opensource:after {
+	content: " }}";
+	color: #33B5E5;
+}
+
+.rules {
+	font-size: 40px;
+}
+
+.badge {
+	font-size: 40px;
+	border-radius: 0px;
+	font-style: italic;
+}
+
+blockquote {
+	border-left: 5px solid #33B5E5;
+}
+
+.social {
+	font-size: 20px;
+	color: #222;
+	padding: 10px;
+}
+
+.social:hover {
+	color: #33B5E5;
+}
+
+.social-bar {
+	position: absolute;
+	bottom: 1%;
+	right: 2%;
+	top: auto;
+	left: auto;
+}
+
+.control {
+	position: absolute;
+	top: auto;
+	bottom: 1%;
+	left: 45%;
+	width: 40px;
+	height: 40px;
+	margin-top: -20px;
+	font-size: 60px;
+	line-height: 30px;
+	text-align: center;
+	border: 0;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+
+#projects {
+	-moz-transition: bottom 2s ease-in 3s;
+}
+		
+.top {
+	top: 3%;
+}
+
+.projects {
+	padding-left: 10px;
+	border-left: 2px solid #33B5E5;
+}
+
+ul {
+    list-style: none outside none;
+}
+
+li.repo {
+    height: 250px;
+    width: 220px;
+	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.7);
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+	display: inline;
+    float: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: relative;
+}
+
+li.repo > a {
+    color: inherit;
+    display: block;
+    height: 100%;
+    overflow: hidden;
+    text-decoration: none;
+    width: 100%;
+}
+
+a:link, a:visited {
+    color: #0084B4;
+    text-decoration: none;
+}
+
+li.repo h2 {
+    margin-bottom: 2px;
+    max-width: 160px;
+    overflow: hidden;
+	color: #0084B4;
+    font-size: 20px;
+    font-weight: bold;
+	word-wrap: break-word;
+}
+li.repo h2, li.repo h3, li.repo p {
+    margin: 10px 15px;
+}
+
+li.repo h3 {
+    color: #999999;
+    font-size: 11px;
+    margin-bottom: 15px;
+    margin-top: 2px;
+}
+
+.repo:after {
+    border-bottom: 50px solid transparent;
+    border-left: 50px solid transparent;
+    border-right: 50px solid #0080B0;
+    content: "";
+    height: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 0;
+}
+
+.repo.jekyll::after {
+	border-right-color: black;
+}
+
+.repo.bootstrap::after {
+	border-right-color: #05C;
+}
+
+.repo.jquery::after {
+	border-right-color: #5DB0E6;
+}
+
+
+@media (max-width: 767px) {
+	.opensource {
+		font-size: 40px;
+	}
+	
+	.rules {
+		font-size: 30px;
+	}
+	
+	.badge {
+		font-size: 30px;
+	}
+	
+	.social-bar {
+		position: relative;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	.opensource {
+		font-size: 54px;
+	}
+	
+	.rules {
+		font-size: 36px;
+	}
+	
+	.badge {
+		font-size: 36px;
+	}
+}
+
+@media (max-width: 480px) {
+	.well h1 {
+		font-size: 	20px;
+	}
+	
+	.opensource {
+		font-size: 22px;
+	}
+	
+	.rules {
+		font-size: 15px;
+	}
+	
+	.badge {
+		font-size: 15px;
+	}
+	
+	.control {
+		font-size: 25px;
+	}
+	
+	.social-bar {
+		position: relative;
+	}
+	
+	li.repo {
+		width: 200px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+}
