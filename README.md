@@ -1,6 +1,6 @@
 jakesyl.github.io
 =================
 
-My Personal Blog
+My Personal Blog,
 
 Nothing to see here
