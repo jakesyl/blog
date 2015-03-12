@@ -1,0 +1,1 @@
+Whenever you start a new project there are certain questions you have to ask yourself.  What's the scale, what CDN should I use if any.  One such question is that of your http server.  I'm leaving light httpd out because of it's memory leaks, so it comes down to Apache httpd vs ngnix
